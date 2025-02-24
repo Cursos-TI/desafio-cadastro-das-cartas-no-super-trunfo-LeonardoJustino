@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+// Código
 int main(){
     //criações de variáveis 
     char estado[2], cidade[50],estado2[2], cidade2[50]; // caracteres
